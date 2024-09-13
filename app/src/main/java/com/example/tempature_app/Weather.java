@@ -11,7 +11,7 @@ import org.json.JSONObject;
 
 public class Weather {
 
-    public static final String request = "https://api.openweathermap.org/data/2.5/weather?id=2998323&units=metric&appid=aca2124f0d11437c7406f8490e604e42";
+    public static final String request = "https://api.openweathermap.org/data/2.5/weather?id=2996944&units=metric&appid=aca2124f0d11437c7406f8490e604e42";
 
     private MutableLiveData<String> weather = new MutableLiveData<>();
 
